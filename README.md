@@ -36,4 +36,4 @@
 5. [Deep Lake: a Lakehouse for Deep Learning](https://www.cidrdb.org/cidr2023/papers/p69-buniatyan.pdf) (Activeloop)
 6. [BigLake: BigQuery’s Evolution toward a Multi-Cloud Lakehouse](https://www.cs.cmu.edu/~15721-f24/papers/BigLake.pdf) (Google)
 7. [Adaptive and Robust Query Execution for Lakehouses at Scale](https://www.cs.cmu.edu/~15721-f24/papers/AQP_in_Lakehouse.pdf) (Databricks)
-8. [Petabyte-Scale Row-Level Operations in Data Lakehouses](https://www.vldb.org/pvldb/vol17/p4159-okolnychyi.pdf)
+8. [Petabyte-Scale Row-Level Operations in Data Lakehouses](https://www.vldb.org/pvldb/vol17/p4159-okolnychyi.pdf) (Apple)
